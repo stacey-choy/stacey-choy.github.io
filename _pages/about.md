@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 I am a doctoral candidate in Accounting at Rotman School of Management, University of Toronto, and a Certified Public Accountant.
-Through my research, I aim to show how regulation and enforcement influence companies' investor communication practices or stakeholders’ monitoring of organizational activities. My research has been cited by Bloomberg, CLS Blue Sky Blog, and Oxford Business Law Blog.
-I have a keen interest in teaching managerial accounting (evaluation: 4.8/5, department average: 4.0/5), financial accounting, and data analytics. I am particularly passionate about empowering students with data visualization skills to facilitate effective managerial decision-making.
+My research focuses on how regulation and enforcement influence companies' investor communication practices and the monitoring behaviors of stakeholders. My research has been cited by Bloomberg, CLS Blue Sky Blog, and Oxford Business Law Blog.
+I have a keen interest in teaching managerial accounting (evaluation: 4.8/5), financial accounting, and data analytics. I am particularly passionate about empowering students with data visualization skills to facilitate effective managerial decision-making.
+
 Other than research, I find joy in watching animal videos, with a special fondness for adorable dogs and squirrels, and expressing my love for these furry friends by drawing them on my tablet PC. 
 You can find my CV here. 
 
