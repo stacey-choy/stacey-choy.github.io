@@ -1,9 +1,8 @@
 ---
 title: "Private Communication between Managers and Financial Analysts: Evidence from Taxi Ride Patterns in New York City"
 collection: research
-permalink: /research/paper 1
-excerpt: ''
-venue: ''
+permalink: /research/paper 1.md
+coauthor: 'Ole-Kristian Hope'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3920680'
 ---
 
