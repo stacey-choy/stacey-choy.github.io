@@ -83,11 +83,11 @@ author:
   name             : "Stacey Choy (CPA)"
   avatar           : "Choy, Stacey 500px.jpg"
   bio              : "PhD candidate at Rotman School of Management"
-  location         : "Toronto"
+  location         : "Toronto, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4726039"
-  email            :
+  email            : "stacey.choy@rotman.utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
