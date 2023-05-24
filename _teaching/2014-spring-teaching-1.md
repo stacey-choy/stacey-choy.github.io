@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/Management Accounting
 venue: "Rotman School of Management"
 date: 2022
-location: ""
+location: "Toronto"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
