@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Stacey Choy"
+  avatar           : "Choy, Stacey 500px.jpg"
+  bio              : "PhD candidate at Rotman School of Management \n Certified Public Accountant"
+  location         : "Toronto"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4726039"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
