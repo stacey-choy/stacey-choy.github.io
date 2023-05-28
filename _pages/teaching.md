@@ -37,10 +37,7 @@ You can find the case [here](https://stacey-choy.github.io/files/UPLOAD Ubor Tec
 <p align="center">
   <img src="https://stacey-choy.github.io/files/ubor tech visualization.jpg?raw=true"/>
 </p>
-
-
-
-
+]
 
 
 
