@@ -14,7 +14,7 @@ author_profile: true
 (BBA Core) RSM 222: Management Accounting \
 Evaluation: 4.8 / 5.0 (department average: 4.0 / 5.0)  
 
-**Selected comments** 
+**Selected Comments** 
 > I love the instructor's enthusiasm for her course and research. She's one of the best instructors I've had at U of T.\
 > Basically every concept is understandable through the instructor's communication \
 > This course was of high quality, and the learning experience was very interesting. She made the class very engaging and the in class assignments were very insightful and practical.\
