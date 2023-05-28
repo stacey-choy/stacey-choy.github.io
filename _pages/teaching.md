@@ -35,7 +35,7 @@ You can find the case [here](https://stacey-choy.github.io/files/UPLOAD Ubor Tec
 
 * Works done by students :)
 <p align="center">
-  <img src="https://stacey-choy.github.io/files/ubor tech visualization.png?raw=true"/>
+  <img src="https://stacey-choy.github.io/files/ubor tech visualization.jpg?raw=true"/>
 </p>
 
 
