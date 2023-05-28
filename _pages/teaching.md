@@ -21,9 +21,6 @@ Evaluation: 4.8 / 5.0 (department average: 4.0 / 5.0)
 > Very thorough and gave time to students to ask questions. She provided answers to any questions we had.
 
 
-<p align="center">
-  <img src="https://stacey-choy.github.io/files/ubor tech.png?raw=true"/>
-</p>
 <!-- <div style="text-align: center;">
 ![alt text](https://stacey-choy.github.io/files/ubor tech.png?raw=true)
 </div> -->
@@ -31,6 +28,19 @@ Evaluation: 4.8 / 5.0 (department average: 4.0 / 5.0)
 **Cost-Volume-Profit Analyses using Tableau** \
 I developed a case that showcases the step-by-step process of performing data visualizations for a fictitious ride-hailing company, Ubor Technologies, using [Tableau](https://www.tableau.com/academic/students). This case equips students with the necessary skills to analyze a company's sales and cost data, enabling them to make informed decisions based on insights derived from the data visualizations.
 You can find the case [here](https://stacey-choy.github.io/files/UPLOAD Ubor Technologies Case Instruction.pdf).  
+
+<p align="center">
+  <img src="https://stacey-choy.github.io/files/ubor tech.png?raw=true"/>
+</p>
+
+* Works done by students :)
+<p align="center">
+  <img src="https://stacey-choy.github.io/files/ubor tech visualization.png?raw=true"/>
+</p>
+
+
+
+
 
 
 
