@@ -33,7 +33,7 @@ You can find the case [here](https://stacey-choy.github.io/files/UPLOAD Ubor Tec
   <img src="https://stacey-choy.github.io/files/ubor tech.png?raw=true"/>
 </p>
 
-* Work done by students :)
+* Work done by students :blush:
 <p align="center">
   <img src="https://stacey-choy.github.io/files/ubor tech visualization.jpg?raw=true"/>
 </p>
