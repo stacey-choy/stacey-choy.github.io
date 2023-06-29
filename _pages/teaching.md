@@ -12,7 +12,7 @@ author_profile: true
 
 **Instructor, Rotman School of Management** \
 (BBA Core) RSM 222: Management Accounting \
-Evaluation: 4.8 / 5.0 (department average: 4.0 / 5.0)  
+Evaluation: 4.8 / 5.0 
 
 **Selected Comments** 
 > I love the instructor's enthusiasm for her course and research. She's one of the best instructors I've had at U of T.\
