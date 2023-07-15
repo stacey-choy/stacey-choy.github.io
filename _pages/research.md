@@ -5,18 +5,19 @@ permalink: /research/
 author_profile: true
 ---
 
-**Publication** \
-Public Environmental Enforcement and Private Lender Monitoring: Evidence from Environmental Covenants  \
-with Shushu Jiang, Scott Liao, and Emma Wang \
-*Forthcoming at Journal of Accounting Economics*
+## Publication 
+**Public Environmental Enforcement and Private Lender Monitoring: Evidence from Environmental Covenants** (with Shushu Jiang, Scott Liao, and Emma Wang) \
+ *Forthcoming at Journal of Accounting Economics*
 
 
-**Working Papers** 
-1. Private Communication between Managers and Financial Analysts: Evidence from Taxi Ride Patterns in New York City \
-with Ole-Kristian Hope 
+## Working Papers 
+**1. Private Communication between Managers and Financial Analysts: Evidence from Taxi Ride Patterns in New York City** 
+(with Ole-Kristian Hope) 
+<!--*Revising for third-round review at Contemporary Accounting Research*-->
+*R&R*
 
-2. Debtholder-Focused Investor Communication and Out-of-Court Public Debt Restructuring \
-with Christine Liu and Dushyantkumar Vyas
+**2. Debtholder-Focused Investor Communication and Out-of-Court Public Debt Restructuring**
+(with Christine Liu and Dushyantkumar Vyas)
 
 
 
