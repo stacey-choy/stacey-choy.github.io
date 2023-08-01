@@ -18,14 +18,14 @@ Investor Communication, Regulation and Enforcement, and Financial Institutions
 ## Publication 
 ---
 **Public Environmental Enforcement and Private Lender Monitoring: Evidence from Environmental Covenants** (with Shushu Jiang, Scott Liao, and Emma Wang) 
-[[Print]](https://www.sciencedirect.com/science/article/pii/S0165410123000459)[[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3860178&__cf_chl_captcha_tk__=pmd_iLIM1DbSPixYYb92W3pMXtAdhkI8OUYxsiihHcWyW8Q-1633032394-0-gqNtZGzNAvujcnBszQ9l) 
+[[Print]](https://www.sciencedirect.com/science/article/pii/S0165410123000459) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3860178&__cf_chl_captcha_tk__=pmd_iLIM1DbSPixYYb92W3pMXtAdhkI8OUYxsiihHcWyW8Q-1633032394-0-gqNtZGzNAvujcnBszQ9l) 
   - *Forthcoming at Journal of Accounting Economics* 
   - This paper examines whether and how public environmental enforcement affects private lenders’ monitoring efforts and the effectiveness of such monitoring. We capture lender monitoring using environmental covenants in loan agreements. Consistent with the prediction that stringent public environmental enforcement increases lenders’ monitoring incentives, we find that in the presence of higher environmental regulatory enforcement intensity, lenders are more likely to use environmental covenants when lending to polluting borrowers and when the loans are secured by real property collateral. Moreover, consistent with the prediction that stringent public environmental enforcement facilitates lender monitoring, we find that environmental covenants are more effective in reducing borrowers’ toxic chemical releases when environmental regulatory enforcement is stronger. Taken together, our findings corroborate the importance of public environmental enforcement in inducing lenders’ monitoring efforts, as well as the joint role of public enforcement and private lender monitoring in curbing corporate pollution. 
 
 ## Working Papers 
 ---
 **1. Private Communication between Managers and Financial Analysts: Evidence from Taxi Ride Patterns in New York City** 
-(with Ole-Kristian Hope) [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3920680)
+(with Ole-Kristian Hope) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3920680)
 <!--*Revising for third-round review at Contemporary Accounting Research*-->
   - *R&R* 
   - Media Mention: [Bloomberg](https://www.bloomberg.com/news/newsletters/2021-05-25/elon-musk-wants-bitcoin-to-be-green-but-esg-is-all-relative-kp49d1tg?sref=gzf6vN4G),  [CLS Blue Sky Blog](https://clsbluesky.law.columbia.edu/2021/09/24/private-communication-between-managers-and-financial-analysts-evidence-from-taxi-ride-patterns-in-new-york-city/), [Oxford Business Law Blog](https://www.law.ox.ac.uk/business-law-blog/blog/2021/10/private-communication-between-managers-and-financial-analysts), [National Affairs](https://www.nationalaffairs.com//blog/detail/findings-a-daily-roundup/fully-invested)
