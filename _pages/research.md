@@ -5,6 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
+## Research Interests
+---
+Investor Communictaion, Regulation and Enforcement, and Financial Institutions
+
+## Job Market Paper
+---
+**Don't Be Quiet About Being Quiet: Evidence From Pre-Earnings Announcement Quiet Periods**
+  - Committee: Partha Mohanram (chair), Franco Wong (chair), Nayana Reiter, Charles Martineau
+
+
 ## Publication 
 ---
 **Public Environmental Enforcement and Private Lender Monitoring: Evidence from Environmental Covenants** (with Shushu Jiang, Scott Liao, and Emma Wang) 
