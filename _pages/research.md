@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research Interests
 ---
-Investor Communictaion, Regulation and Enforcement, and Financial Institutions
+Investor Communication, Regulation and Enforcement, and Financial Institutions
 
 ## Job Market Paper
 ---
