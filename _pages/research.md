@@ -19,7 +19,8 @@ Investor Communication, Regulation and Enforcement, and Financial Institutions
 ---
 **Public Environmental Enforcement and Private Lender Monitoring: Evidence from Environmental Covenants** (with Shushu Jiang, Scott Liao, and Emma Wang) 
 [[Print]](https://www.sciencedirect.com/science/article/pii/S0165410123000459) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3860178&__cf_chl_captcha_tk__=pmd_iLIM1DbSPixYYb92W3pMXtAdhkI8OUYxsiihHcWyW8Q-1633032394-0-gqNtZGzNAvujcnBszQ9l) 
-  - *Forthcoming at Journal of Accounting Economics* 
+  - *Forthcoming at Journal of Accounting Economics*
+  - Media Mention: [Harvard Law School Forum](https://corpgov.law.harvard.edu/2023/08/14/public-environmental-enforcement-and-private-lender-monitoring-evidence-from-environmental-covenants/)
   - This paper examines whether and how public environmental enforcement affects private lenders’ monitoring efforts and the effectiveness of such monitoring. We capture lender monitoring using environmental covenants in loan agreements. Consistent with the prediction that stringent public environmental enforcement increases lenders’ monitoring incentives, we find that in the presence of higher environmental regulatory enforcement intensity, lenders are more likely to use environmental covenants when lending to polluting borrowers and when the loans are secured by real property collateral. Moreover, consistent with the prediction that stringent public environmental enforcement facilitates lender monitoring, we find that environmental covenants are more effective in reducing borrowers’ toxic chemical releases when environmental regulatory enforcement is stronger. Taken together, our findings corroborate the importance of public environmental enforcement in inducing lenders’ monitoring efforts, as well as the joint role of public enforcement and private lender monitoring in curbing corporate pollution. 
 
 ## Working Papers 
