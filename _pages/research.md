@@ -11,7 +11,7 @@ Investor Communication, Regulation and Enforcement, and Financial Institutions
 
 ## Job Market Paper
 ---
-**Don't Be Quiet About Being Quiet: Evidence From Pre-Earnings Announcement Quiet Periods**
+**How Quiet Are Quiet Periods: Evidence From Pre-Earnings Announcement Quiet Periods**
   - Committee: [Partha Mohanram](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Mohanram) (chair), [Franco Wong](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Wong.aspx) (chair), [Nayana Reiter](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Reiter), [Charles Martineau](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Martineau)
 
 
