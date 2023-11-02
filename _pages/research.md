@@ -4,10 +4,9 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<hr style="border:2px solid blue">
 
 ## Research Interests
----
+<hr style="border:3px solid blue">
 Investor Communication, Regulation and Enforcement (Securities & Environmental), and Financial Institutions
 
 ## Job Market Paper
