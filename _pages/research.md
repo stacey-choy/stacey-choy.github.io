@@ -4,6 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<hr style="border:2px solid blue">
 
 ## Research Interests
 ---
