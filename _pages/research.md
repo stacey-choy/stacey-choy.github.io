@@ -12,7 +12,12 @@ Investor Communication, Regulation and Enforcement (Securities & Environmental),
 ## Job Market Paper
 <hr style="border:1.7px gray">
 **How Quiet Are Quiet Periods: Evidence From Pre-Earnings Announcement Quiet Periods**
-  - Committee: [Partha Mohanram](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Mohanram) (chair), [Franco Wong](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Wong.aspx) (chair), [Nayana Reiter](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Reiter), [Charles Martineau](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Martineau)
+  - Committee: Partha Mohanram (chair), Franco Wong (chair), Nayana Reiter, Charles Martineau
+
+
+<p align="center">
+  <img src="https://stacey-choy.github.io/files/image11.jpg?raw=true"/>
+</p>
 
 
 ## Publication 
