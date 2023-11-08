@@ -14,10 +14,10 @@ Investor Communication, Regulation and Enforcement (Securities & Environmental),
 **How Quiet Are Quiet Periods: Evidence From Pre-Earnings Announcement Quiet Periods**
   - Committee: Partha Mohanram (chair), Franco Wong (chair), Nayana Reiter, Charles Martineau
 
-
-<p align="center">
-  <img src="https://stacey-choy.github.io/files/image11.jpg?raw=true"/>
-</p>
+<img align="left" src="https://stacey-choy.github.io/files/image11.png?raw=true"/>
+<!--<p align="center">
+  <img src="https://stacey-choy.github.io/files/image11.png?raw=true"/>
+</p> -->
 
 
 ## Publication 
