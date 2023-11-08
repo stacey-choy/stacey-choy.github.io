@@ -14,11 +14,11 @@ Investor Communication, Regulation and Enforcement (Securities & Environmental),
 **How Quiet Are Quiet Periods: Evidence From Pre-Earnings Announcement Quiet Periods**
   - Committee: Partha Mohanram (chair), Franco Wong (chair), Nayana Reiter, Charles Martineau
 
-<img align="left" src="https://stacey-choy.github.io/files/image11.png?raw=true"/>
+<img align="left" src="https://stacey-choy.github.io/files/image11.png?raw=true" width="450px" />
 <!--<p align="center">
   <img src="https://stacey-choy.github.io/files/image11.png?raw=true"/>
 </p> -->
-
+A growing number of companies have voluntarily developed and disclosed pre-earnings announcement quiet period policies. During quiet periods, companies restrict private communications with the investment community to prevent the selective disclosure of quarterly results. The details of quiet periods vary considerably across firms, potentially creating important variations in the private information shared with select parties. Using hand-collected data, this study examines determinants of quiet periods and their consequences on price discovery patterns and information asymmetry among investors. I find that firms (i) are more likely to adopt quiet periods when they face higher litigation risks and (ii) less likely to do so when they face higher investor demands for private access or when managers can profit from inside information leaks. Next, I show that quiet periods are associated with (i) increased investor reactions to earnings news by reducing the anticipatory price run-up before announcements and (ii) reduced information asymmetry among investors, consistent with a more level information playing field without selective disclosures. However, these patterns manifest only in the presence of effective SEC monitoring, which increases the credibility of voluntary quiet period commitments by making it costly for managers to deviate from their policies. In light of the increasing evidence of pervasive selective disclosures, these findings have policy implications. 
 
 ## Publication 
 <hr style="border:1.7px gray">
