@@ -11,7 +11,7 @@ Investor Communication, Regulation and Enforcement (Securities & Environmental),
 
 ## Job Market Paper
 <hr style="border:1.7px gray">
-**How Quiet Are Quiet Periods: Evidence From Pre-Earnings Announcement Quiet Periods**
+**Are Quiet Periods Quiet? Evidence From Pre-Earnings Announcement Quiet Periods**
   - Committee: Partha Mohanram (chair), Franco Wong (chair), Nayana Reiter, Charles Martineau
 
 <!-- <img align="left" src="https://stacey-choy.github.io/files/image11.png?raw=true" width="450px" />
