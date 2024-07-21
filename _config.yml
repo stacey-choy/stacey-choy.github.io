@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Stacey Choy (CPA)"
   avatar           : "Choy, Stacey 500px.jpg"
-  bio              : "PhD candidate at Rotman School of Management"
-  location         : "Toronto, Canada"
+  bio              : "Gies College of Business, University of Illinois at Urbana-Champaign"
+  location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4726039"
-  email            : "stacey.choy@rotman.utoronto.ca"
+  googlescholar    : "https://scholar.google.com/citations?user=jClXbrcAAAAJ&hl=en"
+  email            : "choys@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
