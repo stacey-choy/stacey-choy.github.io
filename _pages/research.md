@@ -31,7 +31,7 @@ A growing number of companies have voluntarily developed and disclosed pre-earni
 <hr style="border:1.7px gray">
 
 **(1) Are Quiet Periods Quiet? Evidence From Pre-Earnings Announcement Quiet Periods**
-<!--   - Committee: Partha Mohanram (chair), Franco Wong (chair), Nayana Reiter, Charles Martineau -->
+ - Committee: Partha Mohanram (chair), Franco Wong (chair), Nayana Reiter, Charles Martineau
 
 
 **(2) Private Communication between Managers and Financial Analysts: Evidence from Taxi Ride Patterns in New York City** 
