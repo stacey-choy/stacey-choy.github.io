@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a doctoral candidate in Accounting at Rotman School of Management, University of Toronto, and a Certified Public Accountant.
-My research focuses on how regulation and enforcement influence companies' investor communication practices and the monitoring behaviors of stakeholders. My research has been cited by Bloomberg, CLS Blue Sky Blog, and Oxford Business Law Blog.
+I am currently an instructor at the Gies College of Business, University of Illinois at Urbana-Champaign, and I will be an assistant professor starting in 2025. I hold a Ph.D. in accounting from the University of Toronto and am a Certified Public Accountant. My research focuses on how regulation and enforcement influence companies' investor communication practices and the monitoring behaviors of stakeholders. My research has been cited by Bloomberg, CLS Blue Sky Blog, and Oxford Business Law Blog.
 <!-- I have a keen interest in teaching managerial accounting (evaluation: 4.8/5), financial accounting, and data analytics. I am particularly passionate about empowering students with data visualization skills to facilitate effective managerial decision-making.
 
 Besides research, I enjoy watching animal videos, with a special fondness for adorable dogs and squirrels, and expressing my love for these furry friends by drawing them on my tablet PC.-->
