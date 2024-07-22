@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4726039"
+  stackoverflow    : #"https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4726039"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
