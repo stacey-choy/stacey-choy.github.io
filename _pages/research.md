@@ -36,8 +36,7 @@ A growing number of companies have voluntarily developed and disclosed pre-earni
 
 
 
-**(2) Are Quiet Periods Quiet? Evidence From Pre-Earnings Announcement Quiet Periods**
- - Solo-authored
+**(2) Are Quiet Periods Quiet? Evidence From Pre-Earnings Announcement Quiet Periods** (Solo-authored)
  - Committee: Partha Mohanram (chair), Franco Wong (chair), Nayana Reiter, Charles Martineau
 
 
