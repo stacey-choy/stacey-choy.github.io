@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an instructor at the Gies College of Business, University of Illinois at Urbana-Champaign, and I will be an assistant professor starting in 2025. I hold a Ph.D. in accounting from the University of Toronto and am a Certified Public Accountant. My research focuses on how regulation and enforcement influence companies' investor communication practices and the monitoring behaviors of stakeholders. My research has been cited by Bloomberg, CLS Blue Sky Blog, and Oxford Business Law Blog.
+I am an assistant professor at the Gies College of Business, University of Illinois at Urbana-Champaign. I hold a Ph.D. in accounting from the University of Toronto and am a Certified Public Accountant. My research focuses on how regulation and enforcement influence companies' investor communication practices and the monitoring behaviors of stakeholders. My research has been cited by Bloomberg, CLS Blue Sky Blog, and Oxford Business Law Blog.
 
 
 You can find my CV [here](https://stacey-choy.github.io/files/CV_Current.pdf).  
